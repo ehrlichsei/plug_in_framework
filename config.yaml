@@ -1,0 +1,4 @@
+# config.yaml
+plugins:
+  - email_plugin
+  - sms_plugin
